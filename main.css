@@ -1,9 +1,9 @@
 p {
-    /*background-color: white;*/
+    background-color: white;
 }
 h1 {
     text-align: center;
-    color: red;
+    color: purple;
 }
 body {
     width: 1000px;
