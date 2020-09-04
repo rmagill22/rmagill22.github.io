@@ -9,3 +9,12 @@ body {
     width: 1000px;
 
 }
+li {
+    list-style-type: none;
+    display: inline-block;
+    width: 21%;
+    background-color: black;
+    color: white;
+    margin: 0px;
+    padding: 10px;
+}
