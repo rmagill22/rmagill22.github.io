@@ -3,5 +3,9 @@ p {
 }
 h1 {
     text-align: center;
-    color: blue;
+    color: blueviolet;
+}
+body {
+    width: 1000px;
+
 }
