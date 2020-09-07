@@ -1,0 +1,24 @@
+p {
+    background-color: white;
+}
+h1 {
+    text-align: center;
+    color: purple;
+}
+h2 {
+    text-align: center;
+    color: grey;
+}
+body {
+    width: 1000px;
+
+}
+li {
+    list-style-type: none;
+    display: inline-block;
+    width: 17%;
+    background-color: grey;
+    color: white;
+    margin: 10px;
+    padding: 10px;
+}
