@@ -23,6 +23,10 @@ li {
     padding: 5px;
 }
 
+image {
+    align-content: center;
+}
+
 div.pi {
     color: cadetblue;
 }
