@@ -7,7 +7,7 @@ h1 {
 }
 h2 {
     text-align: center;
-    color: rgb(255, 0, 179);
+    color: rgba(255, 0, 179, 0.932);
 }
 body {
     width: 1000px;
