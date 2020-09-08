@@ -13,6 +13,9 @@ body {
     width: 1000px;
 
 }
+image {
+    width: 800px;
+}
 li {
     list-style-type: none;
     display: inline-block;
