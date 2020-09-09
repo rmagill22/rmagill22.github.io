@@ -9,6 +9,16 @@ body {
     width: 1000px;
 
 }
+div.p1 {
+    color: cadetblue;
+}
+div.p2 {
+    color: cornflowerblue;
+}
+div.p3 {
+    color: darkslategrey;
+}
+
 li {
     list-style-type: none;
     display: inline-block;
