@@ -42,3 +42,6 @@ a {
 a:hover {
     color: rgb(136, 100, 237);
 }
+span {
+    font-style: italic;
+}
